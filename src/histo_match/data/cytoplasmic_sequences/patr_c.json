@@ -1,0 +1,724 @@
+{
+    "GSHSLRYFDTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAGSPRGEPRAPWVEQEGPEYWDRQTQIYKRQAQADRVNLRKLRGYYNQSEDGSHTIQRMFGCDLGPDGRLLRGYSQSAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGTCVEWLRRHLENGKETLQRTEHPKTHVTHHPISDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*10:01",
+                "id": "NHP00792",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*10:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*10:02:01:01",
+                "id": "NHP09249",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*10:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*10:01",
+            "id": "NHP00792",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*10:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDQETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQRMSGCDLGPDGRLLRGYDQSAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGLCVEWLRRYLENGKETLQRTERPKTHVTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*13:03:01:01",
+                "id": "NHP04218",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*13:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*13:03:01:01",
+            "id": "NHP04218",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*13:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDQETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQRMSGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGLCVEWLRRYLENGKETLQRTERPKTHVTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVAVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*13:01:01:01",
+                "id": "NHP00795",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*13:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*13:01:01:01",
+            "id": "NHP00795",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*13:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDQETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQRMSGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGLCVEWLRRYLENGKETLQRTERPKTHVTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*13:02",
+                "id": "NHP00796",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*13:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*13:02",
+            "id": "NHP00796",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*13:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDQETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQRRAYLEGLCVEWLRRYLENGKETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*17:02:01:01",
+                "id": "NHP09241",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*17:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*17:02:01:01",
+            "id": "NHP09241",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*17:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDQETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*17:01:01:01",
+                "id": "NHP09240",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*17:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*17:01:01:01",
+            "id": "NHP09240",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*17:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQRMSGCDLGPDGRLLRGYGQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQLRAYLEGKCVEWLRRYLENGKETLQRTECPKTHMTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*02:03:01",
+                "id": "NHP00777",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*02:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*02:03:01",
+            "id": "NHP00777",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*02:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQRMSGCDLGPDGRLLRGYGQSAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQLRAYLEGKCVEWLRRYLENGKETLQRTECPKTHMTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*02:05:01:01",
+                "id": "NHP01103",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*02:05",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*02:05:01:01",
+            "id": "NHP01103",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*02:05",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQRMSGCDLGPDGRLLRGYGQSAYDGKDYIALNEDLRSWTVADTAAQITQRKWEAAREAEQLRAYLEGKCVEWLRRYLENGKETLQRTECPKTHMTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*02:04:01:01",
+                "id": "NHP01102",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*02:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*02:04:01:01",
+            "id": "NHP01102",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*02:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQWMYGCDLGPDGRLLRGYGQSAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQLRAYLEGKRVESCRRYLENGKETLQRTECPKTHMTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*02:01",
+                "id": "NHP00775",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*02:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*02:01",
+            "id": "NHP00775",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*02:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQWMYGCDLGPDGRLLRGYGQSAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQLRAYLEGKCVEWLRRYLENGKETLQRTECPKTHMTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*02:02",
+                "id": "NHP00776",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*02:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*02:02",
+            "id": "NHP00776",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*02:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFYTAVSRPGRREPRFISVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDQETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQRMSGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGLCVEWLRRYLENGKETLQRTERPKTHVTHHPVSDHEATLRCWALAFYPAEITLTWQRDGEDQIQDTELVETRPAGDGTFQKWAAVAVPSGQEQRYTCHVQHEGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*13:04:01:01",
+                "id": "NHP09251",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*13:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*13:04:01:01",
+            "id": "NHP09251",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*13:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDNDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQHRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*07:01",
+                "id": "NHP00786",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*07:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*07:01",
+            "id": "NHP00786",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*07:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYLALNEDLRSWTAADTAAQITQRKLEAARAAEQLRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*12:01:01:01",
+                "id": "NHP00794",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*12:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*12:01:01:01",
+            "id": "NHP00794",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*12:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYEQLAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*03:02:01:01",
+                "id": "NHP00779",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:02",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*03:02:02:01",
+                "id": "NHP00780",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:02",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*03:02:02:02",
+                "id": "NHP09238",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*03:02:01:01",
+            "id": "NHP00779",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*03:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYGQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*03:01:01:01",
+                "id": "NHP00778",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*03:01:01:01",
+            "id": "NHP00778",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*03:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDVGPDGRFLRGYRQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQLRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*03:06:01:01",
+                "id": "NHP09252",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:06",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*03:06:01:01",
+            "id": "NHP09252",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*03:06",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*03:04",
+                "id": "NHP00781",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*03:04",
+            "id": "NHP00781",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*03:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQNYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYEQLAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*03:05:01:01",
+                "id": "NHP09239",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:05",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*03:05:01:01",
+            "id": "NHP09239",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*03:05",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQNYKRQAQADRVNLRKLRGYYNQSEDGSHTLQSMYGCDVGPDGRFLRGYRQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*03:07:01:01",
+                "id": "NHP09253",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*03:07",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*03:07:01:01",
+            "id": "NHP09253",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*03:07",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQLRAYLEGTCVEWLRRYLENGKETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*05:02",
+                "id": "NHP00784",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*05:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*05:02",
+            "id": "NHP00784",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*05:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*11:01:01",
+                "id": "NHP00793",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*11:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*11:01:02:01",
+                "id": "NHP09250",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*11:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*11:01:01",
+            "id": "NHP00793",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*11:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQHRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*07:02:01:01",
+                "id": "NHP09243",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*07:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*07:02:01:01",
+            "id": "NHP09243",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*07:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*15:02:01:01",
+                "id": "NHP09244",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*15:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*15:02:01:01",
+            "id": "NHP09244",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*15:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*07:03:01:01",
+                "id": "NHP09245",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*07:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*07:03:01:01",
+            "id": "NHP09245",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*07:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYLALNEDLRSWTAADTAAQITQRKLEAARAAEQLRAYLEGLCVEWLRRYLENGKETLQRAEPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*08:01",
+                "id": "NHP00787",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*08:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*08:01",
+            "id": "NHP00787",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*08:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQSMYGCDLGPDGRLLRGYDQYAYDGKDYLALNEDLRSWTAADTAAQITQRKLEAARAAEQLRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*06:01:01:01",
+                "id": "NHP00785",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*06:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*06:01:01:01",
+            "id": "NHP00785",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*06:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQWMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQLRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*15:01:01:01",
+                "id": "NHP01993",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*15:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*15:01:01:01",
+            "id": "NHP01993",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*15:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQWMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQLRAYLEGTCVEWLRRYLENGKETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*05:01:01:01",
+                "id": "NHP00783",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*05:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*05:01:01:01",
+            "id": "NHP00783",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*05:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPHFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQKYKRQAQADRVSLRNLRGYYNQSEDGSHTLQWMYGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQRRAYLEGLCVEWLRRYLENGRETLQRAEHPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*16:01:01:01",
+                "id": "NHP01994",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*16:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*16:01:01:01",
+            "id": "NHP01994",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*16:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQIYKRQAQADRVNLRKLRGYYNQSEDGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQWRAYLEGLCVEWLRRYLENGKETLQRAEPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHMQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*09:04:01:01",
+                "id": "NHP01105",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*09:04:01:01",
+            "id": "NHP01105",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*09:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQWRAYLEGLCVEWLRRYLENGKETLQRAEPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHMQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*09:01:01:01",
+                "id": "NHP00788",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*09:01:01:02",
+                "id": "NHP00789",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*09:01:01:03",
+                "id": "NHP09246",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*09:01:01:04",
+                "id": "NHP09247",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*09:01:01:01",
+            "id": "NHP00788",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*09:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGLCVEWLRRYLENGKETLQRAEPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHMQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*04:01:01:01",
+                "id": "NHP00782",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*04:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*04:01:01:01",
+            "id": "NHP00782",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*04:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRETQKYKRQAQADRVNLRKLRGYYNQSEDGSHTVQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAARAAEQLRAYLEGLCVEWLRRYLENGKETLQRAEPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHMQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*04:02:01:01",
+                "id": "NHP09242",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*04:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*04:02:01:01",
+            "id": "NHP09242",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*04:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWDRQTQIYKRQAQADRVNLRKLRGYYNQSEDGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQLRAYLEGTCVEWLRRYLENGKETLQRAEPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHMQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*09:05:01:01",
+                "id": "NHP01104",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:05",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*09:05:01:01",
+            "id": "NHP01104",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*09:05",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQNYKRQAQADRVNLRKLRGYYNQSEDGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTAAQITQRKLEAARAAEQWRAYLEGLCVEWLRRYLENGKETLQRAEPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHMQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*09:02:01:01",
+                "id": "NHP00790",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:02",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Patr-C*09:02:01:02",
+                "id": "NHP09248",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*09:02:01:01",
+            "id": "NHP00790",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*09:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRGEPRAPWVEQEGPEYWHRETQNYKRQAQADRVNLRKLRGYYNQSEDGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADTGPQITQRKLEAARAAEQWRAYLEGLCVEWLRRYLENGKETLQRAEPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGQEQRYTCHMQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Patr-C*09:03",
+                "id": "NHP00791",
+                "locus": "Patr-C",
+                "protein_allele_name": "Patr-C*09:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Patr-C*09:03",
+            "id": "NHP00791",
+            "locus": "Patr-C",
+            "protein_allele_name": "Patr-C*09:03",
+            "source": "ipd-mhc"
+        }
+    }
+}

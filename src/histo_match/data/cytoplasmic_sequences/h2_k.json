@@ -1,0 +1,128 @@
+{
+    "GPHSLRYFHTAVSRPGLGKPRFISVGYVDDTEFVRFDSDAENPRYEPRARWMEQVEPEYWERNTQIAKDNEQSSRVDLRTLLRYYNQSAGGSHTIQRMYGCDVGSDGRLLRGYEQVAYDGCDYIALNEDLKTWTAADMAALITKHKWEQAGAAERRRAYLEGACVEWLSRHLKNGNATLLRTDSPKAHVTHHSRPEDKVTLRCWALGFYPADITLTWQLNGEELTQDMELVETRPAGDGTFQKWASVVVPLGKEQYYTCHVYHQGLPKPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "H2-Kw28",
+                "id": "P03991",
+                "locus": "K",
+                "protein_allele_name": "H2-Kw28",
+                "source": "h2"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "H2-Kw28",
+            "id": "P03991",
+            "locus": "K",
+            "protein_allele_name": "H2-Kw28",
+            "source": "h2"
+        }
+    },
+    "GPHSLRYFHTAVSRPGLGKPRFISVGYVDDTQFVRFDSDAENPRYEPRVRWMEQVEPEYWERNTQIAKGNEQIFRVNLRTALRYYNQSAGGSHTFQRMYGCEVGSDWRLLRGYEQYAYDGCDYIALNEDLKTWTAADMAALITKHKWEQAGDAERDRAYLEGTCVEWLRRYLQLGNATLPRTDSPKAHVTRHSRPEDKVTLRCWALGFYPADITLTWQLNGEELTQDMELVETRPAGDGTFQKWASVVVPLGKEQYYTCHVYHQGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "H2-Kk",
+                "id": "P04223",
+                "locus": "K",
+                "protein_allele_name": "H2-Kk",
+                "source": "h2"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "H2-Kk",
+            "id": "P04223",
+            "locus": "K",
+            "protein_allele_name": "H2-Kk",
+            "source": "h2"
+        }
+    },
+    "GPHSLRYFVTAVSRPGLGEPRFIAVGYVDDTQFVRFDSDADNPRFEPRAPWMEQEGPEYWEEQTQRAKSDEQWFRVSLRTAQRYYNQSKGGSHTFQRMFGCDVGSDWRLLRGYQQFAYDGRDYIALNEDLKTWTAADTAALITRRKWEQAGDAEYYRAYLEGECVEWLRRYLELGNETLLRTDSPKAHVTYHPRSQVDVTLRCWALGFYPADITLTWQLNGEDLTQDMELVETRPAGDGTFQKWAAVVVPLGKEQNYTCHVHHKGLPEPLTLRWK": {
+        "alleles": [
+            {
+                "gene_allele_name": "H2-Kd",
+                "id": "P01902",
+                "locus": "K",
+                "protein_allele_name": "H2-Kd",
+                "source": "h2"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "H2-Kd",
+            "id": "P01902",
+            "locus": "K",
+            "protein_allele_name": "H2-Kd",
+            "source": "h2"
+        }
+    },
+    "GPHSLRYFVTAVSRPGLGEPRFISVGYVDNTEFVRFDSDAENPRYEPRARWMEQEGPEYWERETQKAKGNEQSFRVDLRTLLGYYNQSKGGSHTIQVISGCEVGSDGRLLRGYQQYAYDGCDYIALNEDLKTWTAADMAALITKHKWEQAGEAERLRAYLEGTCVEWLRRYLKNGNATLLRTDSPKAHVTHHSRPEDKVTLRCWALGFYPADITLTWQLNGEELIQDMELVETRPAGDGTFQKWASVVVPLGKEQYYTCHVYHQGLPEPLTLRW": {
+        "alleles": [
+            {
+                "gene_allele_name": "H2-Kbm8",
+                "id": "none",
+                "locus": "K",
+                "protein_allele_name": "H2-Kbm8",
+                "source": "h2"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "H2-Kbm8",
+            "id": "none",
+            "locus": "K",
+            "protein_allele_name": "H2-Kbm8",
+            "source": "h2"
+        }
+    },
+    "GPHSLRYFVTAVSRPGLGEPRYMEVGYVDDTEFVRFDSDAENPRYEPRARWMEQEGPEYWERETQKAKGNEQSFRVDLRTLLGYYNQSKGGSHTIQVISGCEVGSDGRLLRGYQQYAYDGCDYIALNEDLKTWTAADMAALITKHKWEQAGAAEYYRAYLEGTCVEWLRRYLKNGNATLLRTDSPKAHVTHHSRPEDKVTLRCWALGFYPADITLTWQLNGEELIQDMELVETRPAGDGTFQKWASVVVPLGKEQYYTCHVYHQGLPEPLTLRW": {
+        "alleles": [
+            {
+                "gene_allele_name": "H2-Kbm1",
+                "id": "none",
+                "locus": "K",
+                "protein_allele_name": "H2-Kbm1",
+                "source": "h2"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "H2-Kbm1",
+            "id": "none",
+            "locus": "K",
+            "protein_allele_name": "H2-Kbm1",
+            "source": "h2"
+        }
+    },
+    "GPHSLRYFVTAVSRPGLGEPRYMEVGYVDDTEFVRFDSDAENPRYEPRARWMEQEGPEYWERETQKAKGNEQSFRVDLRTLLGYYNQSKGGSHTIQVISGCEVGSDGRLLRGYQQYAYDGCDYIALNEDLKTWTAADMAALITKHKWEQAGEAERLRAYLEGTCVEWLRRYLKNGNATLLRTDSPKAHVTHHSRPEDKVTLRCWALGFYPADITLTWQLNGEELIQDMELVETRPAGDGTFQKWASVVVPLGKEQYYTCHVYHQGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "H2-Kb",
+                "id": "P01901",
+                "locus": "K",
+                "protein_allele_name": "H2-Kb",
+                "source": "h2"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "H2-Kb",
+            "id": "P01901",
+            "locus": "K",
+            "protein_allele_name": "H2-Kb",
+            "source": "h2"
+        }
+    },
+    "GSHSLRYFVTAVSRPGHGKPRYMEVGYVDDTEFVRFDSDAENPRYEPRTPWMEQVEPEYWEGQTQIAKGNEQSSRVDLRTALRYYNQSAGGSHTIQRMRGCEVGSDGRLLRGYQQVAYDGRDYIALNEDLKTWTAADMAALITKHKWEQAGAAERDRAYLEGACVEWLRRYLELGNATLLRTDSPKAHVTHHSRPKDKVTLRCWALGFYPADITLTWQLNGEELTQDMELVETRPAGDGTFQKWASVVVPLGKEQNYTCHVYHEGLPEPLTLRW": {
+        "alleles": [
+            {
+                "gene_allele_name": "H2-Kwm7",
+                "id": "D2YW38",
+                "locus": "K",
+                "protein_allele_name": "H2-Kwm7",
+                "source": "h2"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "H2-Kwm7",
+            "id": "D2YW38",
+            "locus": "K",
+            "protein_allele_name": "H2-Kwm7",
+            "source": "h2"
+        }
+    }
+}

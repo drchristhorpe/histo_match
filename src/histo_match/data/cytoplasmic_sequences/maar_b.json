@@ -1,0 +1,146 @@
+{
+    "GSHSLRYFHTAVSRPGRWEPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEQTRIAKEAAQTERGNLRTLRGYYNQSEGGSHTLQWMYGCDLGPDGRLLRGYDQSAYDGRDYIVLNEDLRSWTAADMAAQNTQRKWEAARAAERQRAYLEGECREWLRRYLENGKEMLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPVTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*082:01",
+                "id": "NHP05194",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*082:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*082:01",
+            "id": "NHP05194",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*082:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRQEPWYFEVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEATRRAKGNAQTHRGNLRTALRYYNQSEGGSHTLQWMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAARFTQRKWEAARAAEQLRAYLEGKCLEWLRRYLENQNESLLRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*007:01",
+                "id": "NHP05200",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*007:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*007:01",
+            "id": "NHP05200",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*007:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFYTGVSRPGRGEPRFIAVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEETRKVKEAAQTFRVSLGNLRGYYNQSEAGSHTYQWMYGCDLGPDGRLLRGYHQSAYDGKDYIALNRDLRSWTAADEAAQNTQRKWEAAGVAEQMRAYLEGQCLECLRGYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEIALTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVSSGEEQRYTCHVQHQGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*072:01",
+                "id": "NHP05195",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*072:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*072:01",
+            "id": "NHP05195",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*072:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMKYFYTTVSRPGRGEPRFIAVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWEEATRRAKEAAQTHRENLRTALRYYNQSEAGSHTIQKMYGCDLGPDGRLLRGYHQSAYDGKDYIALNGDLRSWTAADMAAQNTQRKWEGDRYAERFRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTEFVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*017:01",
+                "id": "NHP05199",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*017:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*017:01",
+            "id": "NHP05199",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*017:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGGREPWYLEVGYVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKGNAQTFRVDLGTLLRYYNQSEGGSHTIQWMSGCDLGPDGRLLRGYHQFAYDGKDYIALNEDLRSWTAADMAARFTQRKWEAAREAEQQRAYLEGECLEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*139:02",
+                "id": "NHP05198",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*139:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*139:02",
+            "id": "NHP05198",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*139:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGRREPWYLEVGYVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKGNAQTFRVDLGTLLRYYNQSEGGSHTIQWMSGCDLGPDGRLLRGYHQFAYDGKDYIALNEDPRSWTAADMAARFTQRKWEAAREAEQQRAYLEGECLEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*139:01",
+                "id": "NHP05123",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*139:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*139:01",
+            "id": "NHP05123",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*139:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFTTALSRPGRGQPRFISVGYVDDTQFVRFDSDAESPRMEPRARWIEQEGPEYWEEETRRAKGHAQTDLGGLGILRGYYNQSEGGSHTYQRMSGCDVGPDGRLLRGYHQRAYDGKDYISLNEDLRSWTAADVAAQNTQRKWEAAGVAEGRRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPADITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*069:02",
+                "id": "NHP05197",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*069:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*069:02",
+            "id": "NHP05197",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*069:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GWHSMRYFTTALSRPGRGEPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWEEQTRRAKGHAQTDLGGLGILRGYYNQSEGGSHTLQRMSGCDVGPDGRLLRGYHQRAYDGKDYISLNEDLRSWTAADMAAQNTQRKWEAARVAEQKRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPADITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGVVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Maar-B*069:01",
+                "id": "NHP05196",
+                "locus": "Maar-B",
+                "protein_allele_name": "Maar-B*069:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Maar-B*069:01",
+            "id": "NHP05196",
+            "locus": "Maar-B",
+            "protein_allele_name": "Maar-B*069:01",
+            "source": "ipd-mhc"
+        }
+    }
+}

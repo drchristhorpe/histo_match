@@ -1,0 +1,308 @@
+{
+    "DSHSMRYFYTSVSRPGRGQPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEQTRRVKVHAQTFRVSLGNLRGYYNQSEAGSHTIQRMYGCDLGPDGRLLRGYNQFAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAADGAEQMRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*14:01",
+                "id": "NHP06574",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*14:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*14:01",
+            "id": "NHP06574",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*14:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFYTAVSRPGRGQPRFISVGYVDDTQFVRFDSDAESPREEPRAPWMEQEGPEYWEEETRRVKGNAQTFRADLGTLRGYYNQSEAGSHTLQEMYGCDLGPYGRLLRGYEQLAYDGKDYITLNEDLRSWTAADMAAQNTQRKWEAEGWAERFRTYVEGLCVESLRRYLENGKETLQRADPPKTHVTHHPVSDYEATLRCWALGFYPAEITLTWQQDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEHRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*15:01",
+                "id": "NHP06576",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*15:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*15:01",
+            "id": "NHP06576",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*15:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFGTAVSRPGRGQPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWEEETRKVKDSAQIFRENLRTALRYYNQSEGGSHTIQRMFGCDLGPDGRLLRGYYQDAYDGRDYIALNEDLRSWTAADMAAQNTQRKWEAAGAAEQHRTYLEGECLESLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWAQGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPKPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*11:01",
+                "id": "NHP06569",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*11:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*11:01",
+            "id": "NHP06569",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*11:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFGTSVSRPGRGQPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWEEETRKVKDSAQIFRENLRTALRYYNQSEGGSHTFQRMFGCDLGPDGSLLRGYEQSAYDGKDYIALNEDLRSWTAADLAAQNTQRKWEAADVAEQKRAYLEGLCVESLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWKRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*17:01",
+                "id": "NHP06579",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*17:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*17:01",
+            "id": "NHP06579",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*17:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFGTSVSRPGRGQPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWEEETRKVKDSAQIFRENLRTLLRYYNQSEAGSHTIQMMFGCDLGPDGRLLRGYEQFAYDGRDYIALNEDLRSWTAADMAAQNTQRKWEAAGVAEQHRTYLEGECLEGLRRYLENGKETLQRADPPKTHVTHHPVSNHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLREPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*11:02",
+                "id": "NHP06575",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*11:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*11:02",
+            "id": "NHP06575",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*11:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTSVSRPGRGQPRFIAVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEQTRRAKGHAQTFRVSLRNLLRYYNQSEAGSHTVQRMHGCDLGPDGRLLRGYNQFAYDDKDYIALNEDLRSWTAADMAAQNTQRKWEAEGWAERYRTYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDYEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKERRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*12:01",
+                "id": "NHP06571",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*12:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*12:01",
+            "id": "NHP06571",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*12:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTSVSRPGRGQPRFISVGYVDDTQFVRFDSDAESPREEPRAPWMEQEGPEYWDRNTRIAKEAAQSFRVSLGILRGYYNQSEAGSHTLQNMYGCDLGPDGRLLRGYYQDAYDGKDYIALNEDLRSWTAADMAAQITQRKWEAEGWAEQDRAYLEGRCVESLRRYLENGKETLQRADPPKTHVTHHPVSDYEATLRCWALGFYPAEITLTWQQDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEHRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*13:01",
+                "id": "NHP06572",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*13:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*13:01",
+            "id": "NHP06572",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*13:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFFAVGYVDDTQFVRFDSDAASQRMEPRAPWVEQEGPEYWDRNTRYMKTETQNAPVNLRNLRGYYNQSEAGSHTYQKMYGCDLGPDGRLLRGYYQSAYDGKDYIALNEDLRSWTAADLAAQNTQRKWEAEGWAEQDRAYLEGRCVESLRRYLKNGKEMLQRADPPKTHVTHHPVSDHESTLRCWALDFYPAEITLTWQRDGEEQTQDTELVETRPTGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLREPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*04:01",
+                "id": "NHP06548",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*04:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*04:01",
+            "id": "NHP06548",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*04:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWVEQEGPEYWDRSTRYMKTETQRAPVDLRNLRGYYNQSEAGSHTVQKMYGCDLGPDGRLLRGYHQYAYDGKDYFALNEDLRSWTAADTAAQNTQRKWEAAGAAEQIRAYLEGECLEWLRRHLENGKETLQRADPPKTHVTHHAVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPKPLTLKWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*05:01",
+                "id": "NHP06550",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*05:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*05:01",
+            "id": "NHP06550",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*05:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAESPRTEPRAPWMEQEGPEYWEEQTRIAKDNAQTFRVGLGILRGYYNQSEAGSHTYQNMYGCDLGPDGRLLSGYDQYAYDGRDYIALNEDLRSWTAADMAAQNTQRKWEAEGWAERDRAYLEGECPEWLRRYLENGKETLQRADPPKTHVTHHPVSDYEATLRCWALGFYPAEITLTWQQDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEHRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*08:01",
+                "id": "NHP06560",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*08:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*08:01",
+            "id": "NHP06560",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*08:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTAVSRPGRWEPRFIAVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRETQKMKTETQMAPVGLRNLRGYYNQSEAGSHTIQLMYGCDLGPDGRLLRGYHQYAYDGKDYIALNEDLRSWTAADMAAQNSQRKLQTAGAAEQHRAYLEGRCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPEEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*01:01",
+                "id": "NHP06535",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*01:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*01:01",
+            "id": "NHP06535",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*01:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTSMSRPGRGEPRFIAVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWDRNTRIYKAATQTYRESLRNLRGYYNQSEAGSHTLQRMYGCDLGPDGRLLRGYDQFAYDGKDYIALNGDLRSWTAADLAAQNTQRKWEAAGEAEQQRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*16:01",
+                "id": "NHP06578",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*16:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*16:01",
+            "id": "NHP06578",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*16:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWDRNTRIYKAETQRAPVNLRNLRGYYNQSEAGSHTYQRMYGCDLGPDGRLLRGYNQYAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGNAEQHRTYLEGRCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*06:01",
+                "id": "NHP06552",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*06:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*06:01",
+            "id": "NHP06552",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*06:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTSVSRPGRGEPRFISVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWDRNTRIYKAETQDAPVGLRNLRGYYNQSEAGSHTFQRMYGCDLGPDGRLLRGYNQYAYDGKDYIALNGDLRSWTAADMAAQNTQRKWEAADAAEQMRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*03:01",
+                "id": "NHP06545",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*03:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*03:01",
+            "id": "NHP06545",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*03:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTSVSRPGRGQPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWVEQEGPEYWDRGTRIMKTETQMAPVDLRNLRGYYNQSEGGSHTIQRMYGCDLGPDGRLLRGYYQYAYDGKDYFALNEDLRSWTAADMAAQNTQRKWEAADAAEQKRAYLEGRCVEWLRRHLENGKETLQRADPPKTHVTHHAVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPKPLTLKWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*02:01",
+                "id": "NHP06536",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*02:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*02:01",
+            "id": "NHP06536",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*02:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTSVSRPGRGQPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWVEQEGPEYWDSQTGIMKAQTQNAPVNLGTLRGYYNQSEAGSHTFQNMFGCDLGPDRRLLRGYYQHAYDGKDYIALNEDLRSWTAADLAAQNTQRKWEAAGDAEQWRAYLEGRCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWKRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*10:01",
+                "id": "NHP06564",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*10:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*10:01",
+            "id": "NHP06564",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*10:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMSYFYTSMSRPGRGQPRFFAVGYVDDTQFVRFDSDAASQRMEPRAPWVEQEGPEYWDRETQNMKTATQRAPVALRNLRGYYNQSEAGSHTYQVMYGCDLGPDGRLLRGYYQAAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAEGWAERFRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDHESTLRCWALDFYPAEITLTWQRDGEEQTQDTELVETRPTGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLREPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Ceat-A1*09:01",
+                "id": "NHP06562",
+                "locus": "Ceat-A1",
+                "protein_allele_name": "Ceat-A1*09:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Ceat-A1*09:01",
+            "id": "NHP06562",
+            "locus": "Ceat-A1",
+            "protein_allele_name": "Ceat-A1*09:01",
+            "source": "ipd-mhc"
+        }
+    }
+}

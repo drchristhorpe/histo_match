@@ -1,0 +1,31 @@
+[project]
+name = "histo-match"
+version = "0.1.0"
+description = "Match an MHC Class I allele sequence to known allele numbers, using histo-hmm to narrow the candidate locus search space."
+readme = "README.md"
+authors = [
+    { name = "Chris Thorpe", email = "33100149+drchristhorpe@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "biopython>=1.85",
+    "click>=8.1",
+    "histo-hmm",
+    "levenshtein>=0.26",
+    "rich>=13.9.0",
+]
+
+[project.scripts]
+histo-match = "histo_match.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.9.28,<0.10.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.uv.sources]
+histo-hmm = { git = "https://github.com/drchristhorpe/histo_hmm.git", branch = "master" }

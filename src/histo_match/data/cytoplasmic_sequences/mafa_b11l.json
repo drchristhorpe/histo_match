@@ -1,0 +1,236 @@
+{
+    "-SHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSNAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQVFRVNLRTPLRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLESLRRYLENGKETLQRVDPPKTHVTHHPVSDHEAILRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGNGTFQKWAAVVVPSGEEQRYTCHVQHKGLLEPLTLRW": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:03",
+                "id": "NHP02561",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:03",
+            "id": "NHP02561",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "-SHSMRYFHTAVSRPGRGEPRFISVGYVDDTQFVRFDSNAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAGEAEQRRAYLEGECLESIRRYLENGKETLQRVDPPKTHVTHHPVSDHEAILRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGNGTFQKWAAVVVPSGEEQRYTCHVQHQGLLEPLTLRW": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:01",
+                "id": "NHP02559",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:01",
+            "id": "NHP02559",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "-SHSMRYFHTAVSRPGRGEPRFISVGYVDDTQFVRFDSNAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLESLRRYLENGKETLQRVDPPKTHVTHHPVSDHEAILRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGNGTFQKWAAVVVPSGEEQRYTCHVQHQGLLEPLTLRW": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:02",
+                "id": "NHP02560",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:02",
+            "id": "NHP02560",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWIEQEGPEYWDRETHKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLEWLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQGDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYMCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:04:01:01",
+                "id": "NHP03833",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:04:01:01",
+            "id": "NHP03833",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWIEQEGPEYWDRETHKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLEWLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYMCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:10:01:01",
+                "id": "NHP12192",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:10",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:10:01:01",
+            "id": "NHP12192",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:10",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWIEQEGPEYWDRETHKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRTHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLESLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYMCHVQHQGLLELPHPEMG": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:12:01:01N",
+                "id": "NHP12194",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:12",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:12:01:01N",
+            "id": "NHP12194",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:12",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLEWLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQQDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYMCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:07:01:01",
+                "id": "NHP11979",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:07",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:07:01:01",
+            "id": "NHP11979",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:07",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGSDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLEWLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYMCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:05:01:01",
+                "id": "NHP03836",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:05",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:05:01:01",
+            "id": "NHP03836",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:05",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSNAASPRMEARAPWIEQEGPEYWDRETQKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAGEAEQRRAYLEGECLESLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDRTFQKWAAVVVSSGEEQRYTCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:11:01:01",
+                "id": "NHP12193",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:11",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:11:01:01",
+            "id": "NHP12193",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:11",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFIAVGYVDDTQFVRFDSNAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSWSAADMAAQVTQRKWEAAREAEQRRAYLEGECLESLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTKLVETRPAGDRTFQKWAAVVVPSGEEQRYMCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:14:01:01",
+                "id": "NHP12196",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:14",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:14:01:01",
+            "id": "NHP12196",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:14",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQGFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDLSSRSAADMAAQVTQRKWEAAREAEQRRAYLEGECLESLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:09:01:01",
+                "id": "NHP12191",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:09",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:09:01:01",
+            "id": "NHP12191",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:09",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAASPRMEPRAPWIEQEGPEYWDRETQKAKAHAQGVRVNLRTALRYYNQSEAGPHTFQRMHGCDLGPDGRLLRGYHQLAYDGKDYIALNGDRSSWTAADVAAQVPQRKWEAAREAEQRRAYLEGECLESLRRYLENGKETLQRVDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHQGLLEPLTLRX": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:13:01:01",
+                "id": "NHP12195",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:13",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:13:01:01",
+            "id": "NHP12195",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:13",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFISVGYVDDTQFVRFDSNAASPRMEPRAPWIEQEGPEYWDRETQKAKARAQVFRVNLRTALRYYNQSEAGSHTFQRMHGCDLGPDGRLLRGYHLLAYDGKDYIALNGDLSSWTAADMAAQVTQRKWEAAREAEQRRAYLEGECLESLRRYLENGMETLQRVDLPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYKCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Mafa-B11L*01:08:01:01",
+                "id": "NHP12118",
+                "locus": "Mafa-B11L",
+                "protein_allele_name": "Mafa-B11L*01:08",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Mafa-B11L*01:08:01:01",
+            "id": "NHP12118",
+            "locus": "Mafa-B11L",
+            "protein_allele_name": "Mafa-B11L*01:08",
+            "source": "ipd-mhc"
+        }
+    }
+}

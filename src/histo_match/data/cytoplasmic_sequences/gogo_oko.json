@@ -1,0 +1,74 @@
+{
+    "GSHSMRYFYTTMSRPGRGEPRFISVGYVDDTQFVRFDSDDASPREEPRAPWMEREGPEYWDRNTQICKAQAQTDRVDLETLRGYYNQSEGGSHTIQMMYGCEVGPDGRFLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQITQRKWEAARWAEQLRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHYPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Gogo-OKO*02:02",
+                "id": "NHP09029",
+                "locus": "Gogo-OKO",
+                "protein_allele_name": "Gogo-OKO*02:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Gogo-OKO*02:02",
+            "id": "NHP09029",
+            "locus": "Gogo-OKO",
+            "protein_allele_name": "Gogo-OKO*02:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTTMSRPGRGEPRFISVGYVDDTQFVRFDSDDASPREEPRAPWMEREGPEYWDRNTQIYKAQAQTDRVDLETLRGYYNQSEGGSHTIQMMYGCEVGPDGRFLRGYQQDAYDGKDYIALNEDLRSWTAADMAAQITQRKWEAARWAEQLRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHYPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Gogo-OKO*02:01",
+                "id": "NHP09028",
+                "locus": "Gogo-OKO",
+                "protein_allele_name": "Gogo-OKO*02:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Gogo-OKO*02:01",
+            "id": "NHP09028",
+            "locus": "Gogo-OKO",
+            "protein_allele_name": "Gogo-OKO*02:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTTMSRPGRGEPRFISVGYVDDTQFVRFDSDDASPREEPRAPWMEREGPEYWDRNTQIYKAQAQTDRVDLETLRGYYNQSEGGSHTIQRMYGCEVGPDGRFLRGYLQDAYDGKDYITLNEDLRSWTAADMAAQITQRKWEAAREAERLRAYMEGTCVEWLRRHLENGKETLQRTDPPKTHMTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPKPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Gogo-OKO*01:01",
+                "id": "NHP00240",
+                "locus": "Gogo-OKO",
+                "protein_allele_name": "Gogo-OKO*01:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Gogo-OKO*01:01",
+            "id": "NHP00240",
+            "locus": "Gogo-OKO",
+            "protein_allele_name": "Gogo-OKO*01:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFYTTMSRPGRGEPRFISVGYVDDTQFVRFDSDDASPREEPRAPWMEREGPEYWDRNTQIYKAQAQTDRVDLETLRGYYNQSEGGSHTIQRMYGCEVGPDGRFLRGYLQDAYDGKDYITLNEDLRSWTAADMAAQITQRKWEAAREAERLRAYMEGTCVEWLRRYLENGKETLQRTDPPKTHMTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWAAVVVPSGKEQRYTCHVQHEGLPKPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Gogo-OKO*01:02",
+                "id": "NHP09027",
+                "locus": "Gogo-OKO",
+                "protein_allele_name": "Gogo-OKO*01:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Gogo-OKO*01:02",
+            "id": "NHP09027",
+            "locus": "Gogo-OKO",
+            "protein_allele_name": "Gogo-OKO*01:02",
+            "source": "ipd-mhc"
+        }
+    }
+}

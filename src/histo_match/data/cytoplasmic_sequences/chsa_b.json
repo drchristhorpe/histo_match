@@ -1,0 +1,1300 @@
+{
+    "GSHSLGYFYTAESRPRRGEPRFIAVGYVDDTQFVRFDSNAASPRMEPRAPWMKQEGPEYWEEQTQRVQGHAQTFRVSLRNLLRYYNQSKAGSHTLQRMSGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADTAAQKTQRKWEAARAAEKLRAYLEGECVEWLRRYLENQKEMRQRADPPKTNVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWGAVVVPSGEERRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*07:01",
+                "id": "NHP04200",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*07:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*07:01",
+            "id": "NHP04200",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*07:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFATAVSRPGRREPRFIAVGYVDDTQFVRFDSDAESPRMEPRAPWMKQEGPEYWEENTRRVKDTAQTFRVGLRNLLRYYNQSEGGSHTVQIMFGCDLGPDGSLLRGYDQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGEAEQWRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWAAVVVPSGEERGYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*08:01",
+                "id": "NHP04189",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*08:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*08:01",
+            "id": "NHP04189",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*08:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFATAVSRPGRREPRFIAVGYVDDTQFVRFDSDAESPRMEPRAPWMKQEGPEYWEENTRRVKDTAQTFRVGLRNLLRYYNQSEGGSHTVQIMFGCDLGPDGSLLRGYDQYAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGEAEQWRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWAAVVVPSGEERGYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*08:02",
+                "id": "NHP04190",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*08:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*08:02",
+            "id": "NHP04190",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*08:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRGDLWYLEVGYVDDTQFVRFDSDAESPRMKPRAPWVEQEGPEYWEEQTRNAKVSAQTDRGNLRTALRYYNQSEAGSHTIQRMYGCDLGPDGRFLRGYHQSAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGEAERVRAYLEGRCVEWLRRYLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRNGEDQTQDTELVETRPGGDGTFQKWGAVMVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*04:01",
+                "id": "NHP04195",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*04:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*04:01",
+            "id": "NHP04195",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*04:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWEEQTRISKADTQTDRENLRTLLRYYNQSEAGSHTLQTMSGCDLGLDGRLLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGAAEQLRAYLEGTCVEWLRRYLENGKETLQRAEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYMCHVQHQGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*34:01",
+                "id": "NHP07724",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*34:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*34:01",
+            "id": "NHP07724",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*34:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFDTVVSRPGRGEPWYLAVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWDRETRRAKGNAQNDRGNLRNLRGYYNQSEGGSHTLQRMYGCDLGPDGRFLRGYQQYAYDGRDYFALNEDLRSWTAADMAAQNTQRKWEAAGEAERFRAYLEGTCVEWLRRYLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRNGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*41:01",
+                "id": "NHP08781",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*41:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*41:01",
+            "id": "NHP08781",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*41:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFGTTVSRPGRGEPHFIYVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWEEQTRIAKARAQTDRVDLGTLRGYYNQSEAGSHTIQWMAGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTAADLAAQNTQRKWEATRYAERFRAYLEGECLEWLRRYLENGKETLQRAEPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTEVVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHQGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*44:01",
+                "id": "NHP09009",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*44:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*44:01",
+            "id": "NHP09009",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*44:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGCWEPHFISVGYVDDTQFVRFDSDAASPREEPRAPRMEPRAPWAEQEGPEYWEEETRNAEAHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAARNTQRKWEAARAAEKLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWGAVVVPSGEEQRYTCHVQHKGLSE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*10:01",
+                "id": "NHP04202",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*10:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*10:01",
+            "id": "NHP04202",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*10:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRGEPHFISVGYVDDTQFLRFDSDAASPREEPRAPWVEQEGPEYWEEETRNAEDHAQSHRVSLRNLLGYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYEQYAYDGKDYIALNEDLRSWTAADMAARNTQRKWEAARAAEKLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHKGLSEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*11:02",
+                "id": "NHP04192",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*11:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*11:02",
+            "id": "NHP04192",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*11:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRGEPHFISVGYVDDTQFLRFDSDAASPREEPRAPWVEQEGPEYWEEETRNAEDHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYEQYAYDGKDYIALNEDLRSWTAADMAARNTQRKWEAARAAEKLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWGAVVVPSGEQQRYTCHVQHKGLSEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*11:01",
+                "id": "NHP04191",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*11:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*11:01",
+            "id": "NHP04191",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*11:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRGEPHFISVGYVDDTQFLRFDSDAASPREEPRAPWVEQEGPEYWEEETRNAEDHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYEQYAYDGKDYIALNEDLRSWTAADTAAQNTQRKWEAARAAEKLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHKGLSEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*11:03",
+                "id": "NHP07671",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*11:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*11:03",
+            "id": "NHP07671",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*11:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRGEPRFISVGYVDDTQFLRFDSDAASPREEPRAPWVEQEGPEYWEEETRNAEDHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYEQYAYDGKDYIALNEDLRSWTAADMAARNTQRKWEAARAAEKLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHQPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHKGLSEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*11:04",
+                "id": "NHP07673",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*11:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*11:04",
+            "id": "NHP07673",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*11:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFLRFDSDAASPREEPRAPWMEQEGPEYWEEQTRNAEAHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDVGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAARNTQRKWEAARAAEKLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWGAVVVPSGEEQRYTCHVQHKGLSEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*09:04",
+                "id": "NHP09004",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*09:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*09:04",
+            "id": "NHP09004",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*09:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFLRFDSDAASPREEPRAPWMEQEGPEYWEEQTRNAEAHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDVGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAARNTQRKWEAARAAEKLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTYQKWGAVVVPSGEEQRYTCHVQHKGLSEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*09:02",
+                "id": "NHP04787",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*09:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*09:02",
+            "id": "NHP04787",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*09:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFLRFDSDAASPREEPRAPWVEQEGPEYWEEETRNAEAHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAARNTQRKWEAARAAEMLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHKGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*09:03:01",
+                "id": "NHP07700",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*09:03",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*09:03:02",
+                "id": "NHP07701",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*09:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*09:03:01",
+            "id": "NHP07700",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*09:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAASPREEPRAPWMEQEGPEYWEEQTRNAEAHAQSHRVSLRNLRGYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYEQFAYDGRDYIALNEDLRSWTATDMAAQNTQRKWEAARAAEKLRAYLEGTCLEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWGAVVVPSGEEQRYTCHVQHKGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*09:01",
+                "id": "NHP04203",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*09:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*09:01",
+            "id": "NHP04203",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*09:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWDRNTRIAKGHAQTDRGNLRTLLRYYNQSEWGSHTVQRMYGCDLGPDGRLLRGYYQFAYDGRDYIALNEDLRSWTTADMAAQSTQRKWEAAGTAEQLRAYLEGTCVEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEKTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*14:07",
+                "id": "NHP09007",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*14:07",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*14:07",
+            "id": "NHP09007",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*14:07",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWDRNTRIAKGHAQTDRRNLRTLLRYYNQSEWGSHTVQRMYGCDLGPDGRLLRGYYQFAYDGRDYIALNEDLRSWTTADMAAQSTQRKWEAAGTAEQLRAYLEGTCVEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEKTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*14:02",
+                "id": "NHP07696",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*14:02",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*14:03",
+                "id": "NHP07698",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*14:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*14:02",
+            "id": "NHP07696",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*14:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWDRNTRRAKAHAQTDRRNLRTLLRYYNQSEWGSHTLQRMCGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTTADMAAQSTQRKWEAAGVAEQIRAYLEGTCVEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*02:01",
+                "id": "NHP04194",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*02:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*02:01",
+            "id": "NHP04194",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*02:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRIAKGHAQTDRRNLRTLLRYYNQSEWGSHTIQIMYGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTTADMAAQSTQRKWEAAGTAEQLRAYLEGTCVEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*14:06",
+                "id": "NHP07717",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*14:06",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*14:06",
+            "id": "NHP07717",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*14:06",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKAHAQTDRRNLRTLLRYYNQSEWGSHTLQRMCGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTTADMAAQSTQRKWEAAGTAEQLRAYLEGTCVEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*14:05",
+                "id": "NHP07715",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*14:05",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*14:05",
+            "id": "NHP07715",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*14:05",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPTMEPRAPWVEQEGPEYWDRNTRRAKGHAQTDRRNLRILLRYYNQSEWGSHTVQRMYGCDLGPDGRLLRGYHQLAYDGKDYIALNEDLRSWTTADMAAQNTQRKWEAAGTAEQLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*13:07",
+                "id": "NHP09006",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*13:07",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*13:07",
+            "id": "NHP09006",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*13:07",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFHTAVSRPGRWEPRFISVGYVDDTQFVRFDSDAESPTMEPRAPWVEQEGPEYWEEQTRIAKGHAQTDRRNLRTLLRYYNQSEWGSHTVQRMYGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTTADMAAQSTQRKWEAAGTAEQLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*13:06",
+                "id": "NHP07713",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*13:06",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*13:06",
+            "id": "NHP07713",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*13:06",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRGEPRFISVGYVDDTQFVRFDSNAASPREEPRAPWIEQEGPEYWEENTRRVKAHAQTHRGNLRTLLRYYNQSEGGSHTLQRMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAEQLRAYLEGECPEWLRRYLENGEETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*17:01",
+                "id": "NHP04789",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*17:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*17:01",
+            "id": "NHP04789",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*17:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYLEVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEATRRAKGNAQTHRGNLRTALRYYNQSEGGSHTLQWMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAARFTQRKWEAARAAEQLRAYLEGKCLEWLRRYLENQKESLLRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*03:01:01",
+                "id": "NHP06374",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*03:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*03:01:02",
+                "id": "NHP07690",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*03:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*03:01:03",
+                "id": "NHP07692",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*03:01",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*03:01:04",
+                "id": "NHP09003",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*03:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*03:01:01",
+            "id": "NHP06374",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*03:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKAHAQTDRGNLRTLLRYYNQSEGGSHTIQRMFGCDLGPDGHLLRGYDQLAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAERLRAYLEGECLEWLRRHLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:01",
+                "id": "NHP04196",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:01",
+            "id": "NHP04196",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKAHAQTDRGNLRTLLRYYNQSEGGSHTIQRMFGCDLGPDGHLLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWDAARAAERLRAYLEGECLEWLRRYLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:04",
+                "id": "NHP04791",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:04",
+            "id": "NHP04791",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKAHAQTDRGNLRTLLRYYNQSEGGSHTIQRMFGCDLGPDGHLLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAERLRAYLEGECLEWLRRHLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:02:02",
+                "id": "NHP09014",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:02",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*15:02:03",
+                "id": "NHP09053",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:02:02",
+            "id": "NHP09014",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKAHAQTDRGNLRTLLRYYNQSEGGSHTIQRMFGCDLGPDGHLLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAERLRAYLEGECLEWLRRHLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGEGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:06",
+                "id": "NHP07677",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:06",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:06",
+            "id": "NHP07677",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:06",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKAHAQTDRGNLRTLLRYYNQSEGGSHTLQRMYGCDLGPDGHLLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAERLRAYLEGECLEWLRRHLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:10",
+                "id": "NHP09016",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:10",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:10",
+            "id": "NHP09016",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:10",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPRMEPRAQWVEQEGPEYWDRNTRRAKAHAQTDRGNLRTLLRYYNQSEGGSHTIQRMFGCDLGPDGHLLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAERLRAYLEGECLEWLRRHLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:03",
+                "id": "NHP04788",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:03",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*15:09",
+                "id": "NHP09015",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:09",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:03",
+            "id": "NHP04788",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPTMEPRAPWMEQEGPEYWDRNTRRVKGHAQTDRGNLRTLLRYYNQSEGGSHTIQRMYGCDLGPDGRLLRGYEQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAEQLRAYLEGECLEWLRRHLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:07",
+                "id": "NHP07720",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:07",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:07",
+            "id": "NHP07720",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:07",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPTMEPRAPWVEQEGPEYWDRNTRKAKGNAQTNRRNLRILLRYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYDQLAYDGKDYIALNEDLRSWTTADMAAQNTQRKWEAAGTAEQLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*13:05",
+                "id": "NHP07683",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*13:05",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*13:05",
+            "id": "NHP07683",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*13:05",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPTMEPRAPWVEQEGPEYWDRNTRKAKGNAQTNRRNLRILLRYYNQSEWGSHTVQRMYGCDLGPDGRLLRGYDQLAYDGKDYIALNEDLRSWTTADMAAQNTQRKWEAAGTAEQLRAYLEGTCVEWLCRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*13:04",
+                "id": "NHP07681",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*13:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*13:04",
+            "id": "NHP07681",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*13:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPTMEPRAPWVEQEGPEYWDRNTRRVKGHAQTDRRNLRTLLRYYNQSEWGSHTVQRMFGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTTADMAAQNTQRKWEAAGTAEQLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*13:02",
+                "id": "NHP04786",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*13:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*13:02",
+            "id": "NHP04786",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*13:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTAVSRPGRWEPRFIAVGYVDDTQFVRFDSDAESPRMEPRAPWVQQEGPEYWEEQTRIAKGNAQTDRGNLRTALRYYNQSEGGSHTIQRMLGCDLGPDGRLLRGYEQSAYDGKDYIALNEDLRSWTAADMAAQNSQRKWEAAGVAEQLRAYLEGTCLEWLRRYLENGKETLQRADPPKTHVTHHPLSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*45:01",
+                "id": "NHP09010",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*45:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*45:01",
+            "id": "NHP09010",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*45:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTTVSRPGHGEPRFISVGYVDDTQFVRFDSDAASPREEPRAPWAEQEGPEYWEEETRIAKAHAQNHRVSLRNLRGYYNQSEWGSHTLQRMSGCDLGPDGRLLRGYDQSAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGGAEQLRAYLEGTCLEWLRRYLENGKETLQRADPPNTHVTHHHFSDHEAILRCWALGFYPAEITLTWQRDEEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*36:01",
+                "id": "NHP08996",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*36:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*36:01",
+            "id": "NHP08996",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*36:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFSTTVSRPGHGEPRFISVGYVDDTQFVRFDSDAASPREEPRAPWAEQEGPEYWEEETRIAKANAQNHRVSLRNLRGYYNQSEWGSHTLQKMSGCDLGPDGRLLRGYDQSAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARGAEQLRAYLEGTCLEWLRRYLENGKETLQRADPPNTHVTHHPVSDHEAILRCWALGFYPAEITLTWQRDEEDQTQDTELVETRPGGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*36:02",
+                "id": "NHP08780",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*36:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*36:02",
+            "id": "NHP08780",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*36:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFTTALSRPGRGEPRFISVGYVDDTQFVRFDSNAESPRMEPRARWIEQEGPEYWEEETRRAKGHAQTDLGGLGILRGYYNQSEAGSHTYQRMSGCDLGPDGRLLRGYYQRAYEGKDYIALNEDLRSWTAADMAAQNTQRKWEAARKAERFRAYLEGECVEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*35:02",
+                "id": "NHP08771",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*35:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*35:02",
+            "id": "NHP08771",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*35:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFTTALSRPGRGEPRFISVGYVDDTQFVRFDSNAESPRMEPRARWIEQEGPEYWEEETRRAKGHAQTDLGGLGILRGYYNQSEAGSHTYQRMSGCDLGPDGRLLRGYYQRAYEGKDYIALNEDLRSWTAADMAAQNTQRKWEAARKAERFRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*35:03",
+                "id": "NHP08772",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*35:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*35:03",
+            "id": "NHP08772",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*35:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFTTALSRPGRGEPRFISVGYVDDTQFVRFDSNAESPRMEPRARWIEQEGPEYWEEETRRAKGNAQTDLGGLGILRGYYNQSEAGSHTYQRMSGCDLGPDGRLLRGYYQRAYEGKDYIALNEDLRSWTAADMAAQNTQRKWEAARKAERFRAYLEGECVEWLRRYLEYGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*35:01",
+                "id": "NHP08770",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*35:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*35:01",
+            "id": "NHP08770",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*35:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFYTSVSRPGRGEPRFISVGYVDDTQFVRFDGDAESPRMEPRAPWVEQEGPEYWEEQTRISKADTQTDRGNLRTLLRYYNQSEAGSHTLQTMYGCDLGPDGRLLRGYHQYAYDGKDYFALNEDLRSWTAADMAAQNTQRKWEAARAAERLRAYLEGECLEWLRRYLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*38:01",
+                "id": "NHP08774",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*38:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*38:01",
+            "id": "NHP08774",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*38:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFYTSVSRPGRGEPRFISVGYVDDTQFVRFDGDAESPRMEPRAPWVEQEGPEYWEEQTRISKADTQTHRENLRNLRGYYNQSEAGSHTLQTMYGCDLALDGRLLRGYHQYAYDGKDYFALNEDLRSWTAADMAAQNTQRKWEAAGAAEQWRAYLEGTCVEWLRRYLENGKETLQRAEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYMCHVQHQGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*28:01",
+                "id": "NHP07716",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*28:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*28:01",
+            "id": "NHP07716",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*28:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFYTSVSRPGRGEPRYLEVGYVDDTQFVRFDSDAESPRIELRAPWVEQEWPEYWEEQTRRAKEAAQTFRVSLRNLRGYYNQSEAGSHTLQWMAGCDLGPQGHLLRGYHQFAYDGKDYIALNGDLRSWTAADLAAQNTQRKWEAAREAERFRAYLEGPCVEWLRRHRENAEETLQRGEPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*33:01",
+                "id": "NHP07723",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*33:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*33:01",
+            "id": "NHP07723",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*33:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFDTAVSRPGRGEPHFISVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEQTRRLKDVAQTFRVSLRNLRGYYNQSEGGSHTLQWMFGCDLGPDGRLLRGYGQLAYDGKDYIALNEDLRSWTAADLAAQNTQRKWEAARAAEKLRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPEEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEGRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*32:01",
+                "id": "NHP07722",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*32:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*32:01",
+            "id": "NHP07722",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*32:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFDTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEETRRLKDVAQTFRVSLRTLRGYYNQSEGGSHTFQWMFGCDLGPDGRLLRGYDQHAYDSKDYIALNEDLRSWTAADLAAQNTQRKWEAARAAEQMRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPEEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEERYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*32:03",
+                "id": "NHP09019",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*32:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*32:03",
+            "id": "NHP09019",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*32:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFDTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEETRRLKDVAQTFRVSLRTLRGYYNQSEGGSHTFQWMFGCDLGPDGRLLRGYHQFAYDSKDYIALNEDLRSWTAADLAAQNTQRKWEAARAAEQMRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPEEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEERYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*32:02",
+                "id": "NHP09018",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*32:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*32:02",
+            "id": "NHP09018",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*32:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFDTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWEEETRIAKAHAQSHRVSLRNLRGYYNQSEWGSHTYQRMFGCDLGLDGRLLRGYHQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGAAEKLRAYLEGTCVEWLRRYLENGKETLQRAEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYMCHVQHQGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*43:01",
+                "id": "NHP09008",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*43:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*43:01",
+            "id": "NHP09008",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*43:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFDTAVSWPGRREPWYLEVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWDRETRRAKGNAQTNRGNLRTLLRYYNQSEGGSHTIQRMYGCDLGPDGRLLRGYHQYAYDGKDYFALNEDLRSWTAADMAAQNTQRKWESAGEAERFRAYLEGECLEWLRRYLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*40:02",
+                "id": "NHP08778",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*40:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*40:02",
+            "id": "NHP08778",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*40:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFGTTVSRPGRGEPRFIYVGYVDDTQFVRFDSDAESPRMEPRAPWIEQEGPEYWEEETRNAKVTAQTDRVDLGTLRGYYNQSEGGSHTLQWMYGCDLGPDGRLLRGYRQDAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGVAEQLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHDGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*16:01",
+                "id": "NHP04785",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*16:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*16:01",
+            "id": "NHP04785",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*16:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAASQRMEPRAPWVEQEGPEYWDRETRKAKAHAQTDRGNLRTLLRYYNQSEGGSHTIQWMSGCDLGPDGRLLRGYNQHAYDGKDYIALNEDLRSWTAADTAAQNTQRKWEAAGAAEQLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTEFVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*20:01",
+                "id": "NHP07694",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*20:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*20:01",
+            "id": "NHP07694",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*20:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRGEPRFISVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWEEETRIAKAHAQNHRVSLRNLRGYYNQSEGGSHTLQRMSGCDLGPDGRLLRGYRQFAYDGKDYFALNEDLRSWTAADMAAQNTQRKWEAAGAAEQVRAYLEGKCLEWLRRYLENGKETLQRAEPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYMCHVQHQGLLEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*25:01",
+                "id": "NHP07708",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*25:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*25:01",
+            "id": "NHP07708",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*25:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWDRNTRRAKANAQTDRRNLRTLLRYYNQSEWGSHTVQRMYGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTTADMAAQSTQRKWEAAGTAEQLRAYLEGTCVEWLRRHLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*14:04",
+                "id": "NHP07714",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*14:04",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*14:04",
+            "id": "NHP07714",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*14:04",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRWEPRFISVGYVDDTQFMRFDSDAASPREEPRAPWAEQEGPEYWEEETRRAKGNARAHRGNLRILLRYYNQSEWGSHTIQRMSGCDVGPDGRLLRGYEQFAYDGKDYIALNEDLHSWTAADMAAQNTQRKWEAAGAAEQSRAYLEGPCVEWLRRYLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEHRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*42:01",
+                "id": "NHP09005",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*42:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*42:01",
+            "id": "NHP09005",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*42:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRWEPRFISVGYVDDTQFVRFDGDAESPRMEPRAPWVEQEGPEYWDRNTRIAKGHAQTHRRNLRTALRYYNQSEGGSHTIQRMSGCDLGPDGRLLRGYYQDAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGVAEQLRAYLEGTCVEWLRRHLENGKETLQRADPPKTHMTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLTEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*31:01",
+                "id": "NHP07721",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*31:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*31:01",
+            "id": "NHP07721",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*31:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRWEPWYLAVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEETRNAEANARAHRVNLRNLLRYYNQSEGGSHTVQRMSGCDLGPDGRLLRGYDQFAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAREAEQWRAYLEGTCVESLRRYLENGKETLHRTEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*19:02",
+                "id": "NHP07686",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*19:02",
+                "source": "ipd-mhc"
+            },
+            {
+                "gene_allele_name": "Chsa-B*19:03",
+                "id": "NHP07688",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*19:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*19:02",
+            "id": "NHP07686",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*19:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFHTAVSRPGRWEPWYLAVGYVDDTQFVRFDSDAESPRMEPRAPWMEQEGPEYWEEETRNAEANARAHRVNLRNLLRYYNQSEGGSHTVQRMSGCDLGPDGRLLRGYDQFAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAREAEQWRAYLEGTCVESLRRYLENGKETLYRTEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*19:01",
+                "id": "NHP07684",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*19:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*19:01",
+            "id": "NHP07684",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*19:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGRREPWYLAVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWDRETRRAKGNAQTNRGNLRTLLRYYNQSEGGSHTIQRMYGCDLAPDGRLLRGYHQYAYDGKDYFALNEDLRSWTAADMAAQNTQRKWESAGEAERLRAYLEGECLEWLRRYLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPAGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*40:01",
+                "id": "NHP08777",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*40:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*40:01",
+            "id": "NHP08777",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*40:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGRREPWYLAVGYVDDTQFVWFDSDAESPRMEPRAPWIEQEEPEYWEEQTRRAKGNAQADRGNLRTLLRYYNQSEGGSHTFQWMYGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTAADMAAGFTQRKWEAARAAERFRAYLEGECLEWLRRHLENGKETLQRAEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLTEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*01:01",
+                "id": "NHP04201",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*01:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*01:01",
+            "id": "NHP04201",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*01:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGRREPWYLAVGYVDDTQFVWFDSDAESPRMEPRAPWIEQEGPEYWEEQTRRAKGNAQADRGNLRTLLRYYNQSEGGSHTFQWMYGCDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTAADMAAGFTQRKWEAARAAERFRAYLEGECLEWLRRHLENGKETLQRAEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLTEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*01:02",
+                "id": "NHP07669",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*01:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*01:02",
+            "id": "NHP07669",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*01:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGRREPWYLEVGSVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWDRETRNAKAHAQTERGNLRTLLRYYNQSEGGSHTLQRMFGCDLGPDGRLLRGYHQLAYDGKDYIALNEDLRSWTAADMAARFTQRKWEAAREAEQQRAYLEGRCLEWLRRYLENGKGTLHRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*37:03",
+                "id": "NHP08779",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*37:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*37:03",
+            "id": "NHP08779",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*37:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGRREPWYLEVGYVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWEEETRIAKGNAQTNRGNLRTLLRYYNQSEGGSHTIQKMYGCDLGPDGRLLRGYHQYAYDGKDYIALNEDLCSWTAADMVARFTQRKWEAAREAEQRRAYLEGTCVEWLRRYLENGKETLQRAEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*21:01",
+                "id": "NHP07702",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*21:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*21:01",
+            "id": "NHP07702",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*21:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTAVSRPGRREPWYVEVGYVDDTQFVRFDSDAESPRMEPRAPWVEQEGPEYWEENTRRVKGHAQTDRGNLRTLLRYYNQSEGGSHTIQRMYGCDLGPDGRLLRGYEQFAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAEKLRAYLEGECLEWLRRHLENGKETLQRTDPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*15:08",
+                "id": "NHP09011",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*15:08",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*15:08",
+            "id": "NHP09011",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*15:08",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFSTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWEEQTRRAKNIAQTDRVSLRNLRGYYNQSEWGSHTFQWMSGCDLGPDGRLLRGYYQFAYDGKDYIALNEDLRSWTAADVAAQNTQRKWEATREAEQIRAYLEGECVEWLRRYLENGKETLQHADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGNGTFQKWAAVVVPSGEEQRYTCHVQHEGLTEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*18:01",
+                "id": "NHP04790",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*18:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*18:01",
+            "id": "NHP04790",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*18:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFTTALSRPGRGEPRFISVGYVDDTQFVRFDSDAESPRMEPRARWIEQEGPEYWEEQTRRAKGHAQTDLGGLGILRGYYNQSEAGSHTYQRMSGCDLGPDGRLLRGYHQRAYDGKDYIALNEDLRSWTAADLAAQNTQRKWEAAHVAEQLRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPESLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*39:01",
+                "id": "NHP08775",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*39:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*39:01",
+            "id": "NHP08775",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*39:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFTTAVSRPGRREPWYLEVGYVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWDRETRNAKVTAQTDRGNLRTLLRYYNQSEGGSHTLQRMYGCDLGPDGRLLRGYHQLAYDGKDYIALNEDLRSWTAADMAAWFTQRKWEAAREAERFRAYLEGRCLEWLRRYLENGKGTLHRADSPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*37:01",
+                "id": "NHP08773",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*37:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*37:01",
+            "id": "NHP08773",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*37:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFTTAVSRPGRREPWYLEVGYVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWEEETRIAKGNAQTNRGNLRTLLRYYNQSEGGSHTIQKMYGCDLGPDGRLLRGYHQYAYDGKDYIALNEDLCSWTAADMVARFTQRKWEAAREAEQRRAYLEGTCVEWLRRYLENGKETLQRAEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*21:02",
+                "id": "NHP07705",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*21:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*21:02",
+            "id": "NHP07705",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*21:02",
+            "source": "ipd-mhc"
+        }
+    },
+    "SSHSLRYFSTAVSRPGRWEPHFISVGYVDDTQFVRFDSDAESPTMEPRAPWVEQEGPEYWDRNTRKAKGNAQTNRRNLRILLRYYNQSEWGSHTLQKMYGCDLGPDGRLLRGYDQLAYDGKDYIALNEDLRSWTTADMAAQNTQRKWEAAGTAEQLRAYLEGTCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*13:03",
+                "id": "NHP07679",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*13:03",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*13:03",
+            "id": "NHP07679",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*13:03",
+            "source": "ipd-mhc"
+        }
+    },
+    "SSHSMRYFSTAVSRPGRREPWYLEVGYVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWDRETRNAKGNAQTDRGNLRTLLRYYNQSEGGSHTLQRMYGCDLGPDGRLLRGYHQLAYDGKDYIALNEDLRSWTAADMAARFTQRKWEAAREAEQWRAYLEGRCLEWLRRYLENGKGTLHRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEEQTQDTELVETRPGGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Chsa-B*37:02",
+                "id": "NHP08776",
+                "locus": "Chsa-B",
+                "protein_allele_name": "Chsa-B*37:02",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Chsa-B*37:02",
+            "id": "NHP08776",
+            "locus": "Chsa-B",
+            "protein_allele_name": "Chsa-B*37:02",
+            "source": "ipd-mhc"
+        }
+    }
+}

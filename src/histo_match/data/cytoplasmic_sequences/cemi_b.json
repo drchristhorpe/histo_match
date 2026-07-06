@@ -1,0 +1,74 @@
+{
+    "GSHSLRYFTTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWEEQTRRVKGHAQTFRGNLRNLRGYYNQSEGGSHTLQWMSGCDLGPDGRLLRGYDQHAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGAAEQDRAYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGNGTFQKWAAVVVPSGEEQRYMCHVQHEGLTEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Cemi-B*02:01",
+                "id": "NHP05317",
+                "locus": "Cemi-B",
+                "protein_allele_name": "Cemi-B*02:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Cemi-B*02:01",
+            "id": "NHP05317",
+            "locus": "Cemi-B",
+            "protein_allele_name": "Cemi-B*02:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSLRYFYTTVSRPGRGEPRFISVGYVDDTQFVRFDSDAESPREEPRAPWVEQEGPEYWEVNTRRLKARAQTDRVDLGTLRGYYNQSEAGSHTIQMMYGCDLGPDGRLLRGYRQDAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAAGVAERFRAYLEGECQEWLRRYLENGKEMLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAEITLTWQRDGEDETQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Cemi-B*01:01",
+                "id": "NHP05315",
+                "locus": "Cemi-B",
+                "protein_allele_name": "Cemi-B*01:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Cemi-B*01:01",
+            "id": "NHP05315",
+            "locus": "Cemi-B",
+            "protein_allele_name": "Cemi-B*01:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFTTAVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRMEPRAPWMEQEGPEYWEENTRRVKGHAQTDRVSLRNLRGYYNQSEWGSHTFQWMSGCDLGPDGRLLRGYDQYAYDGKDYIALNEDLRSWTAADVAAQNTQRKWEATREAEQIRAYLEGECVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFYPAETTLIWQRDGEDQTQDTELVETRPAGNGTFQKWGAVVVPSGEEQRYTCHVQHEGLTEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Cemi-B*04:01",
+                "id": "NHP05321",
+                "locus": "Cemi-B",
+                "protein_allele_name": "Cemi-B*04:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Cemi-B*04:01",
+            "id": "NHP05321",
+            "locus": "Cemi-B",
+            "protein_allele_name": "Cemi-B*04:01",
+            "source": "ipd-mhc"
+        }
+    },
+    "GSHSMRYFTTAVSRPGRREPWYLEVGYVDDTQFVWFDSDAESPRMEPRAPWVEQEGPEYWDRNTRNAKGHAQTERGNLRTLLRYYNQSEGGSHTIQTMYGCDLGPDGRFLRGYDQSAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAARAAEQSRAYLEGECVEWLRRHLENGKETLQRADPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDETQDTELVETRPGGDGTFQKWGAVVVPSGEEQRYTCHVQHEGLPEPLTLRWE": {
+        "alleles": [
+            {
+                "gene_allele_name": "Cemi-B*03:01",
+                "id": "NHP05319",
+                "locus": "Cemi-B",
+                "protein_allele_name": "Cemi-B*03:01",
+                "source": "ipd-mhc"
+            }
+        ],
+        "canonical_allele": {
+            "gene_allele_name": "Cemi-B*03:01",
+            "id": "NHP05319",
+            "locus": "Cemi-B",
+            "protein_allele_name": "Cemi-B*03:01",
+            "source": "ipd-mhc"
+        }
+    }
+}
